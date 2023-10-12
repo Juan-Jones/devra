@@ -5,28 +5,28 @@ summaryLength   = 35
 
 theme           = "BlogRa"
 languageCode    = "en-us"
-title           = "DevRa"
+title           = "Marketing Strategy Planning and Development"
 
 disqusShortname = "rafed"
 
 [params]
-    description  = "A personal blog on programming, software engineering, machine lelarning, security and tech"
-    contactEmail = "rafed123@gmail.com"
-    footer       = "© 2021 Rafed Muhammad Yasir."
+    description  = "Ulitimate strategic marketing planning (SEO, SEM, PPC, SMO) resources for small business owners, internet marketers, researchers, influencers etc."
+    contactEmail = "jonesdejuan24@gmail.com"
+    footer       = "© 2023 Marketingstrategyplan.org"
     googleSearch = "000151824860492892407:kd5zijxwj6a"
     googleAnalytics = "G-CD8YE5ES29" 
-    adsense      = "ca-pub-7125931910131040"
+    adsense      = "ca-pub-9965740454699088"
     math         = false   # best to enable this in the front matter of a page
     mermaid      = false   # best to enable this in the front matter of a page
 
     # Social Media Params
-    facebook   = "https://www.facebook.com/devrafed"
-    twitter    = ""
-    youtube    = "https://www.youtube.com/channel/UC5NjXdWBtuSiY4QcU0nh_JA"
+    facebook   = "https://www.facebook.com/marketingstrategyplan"
+    twitter    = "https://twitter.com/moneyonline_fre/"
+    youtube    = ""
     instagram  = ""
-    github     = "https://github.com/rafed"
-    pinterest  = ""
-    linkedin   = "https://www.linkedin.com/in/rafed-m-yasir/"
+    github     = ""
+    pinterest  = "https://www.pinterest.com/makeonlinemoneyfree/"
+    linkedin   = "https://www.linkedin.com/company/marketing-strategy-plan"
 
 
 # Configure the site menu here
